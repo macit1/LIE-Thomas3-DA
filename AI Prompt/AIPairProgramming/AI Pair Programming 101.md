@@ -88,3 +88,5 @@ To set up AWS CodeWhisperer in VS Code, see this [guide and short video](https:/
 ## Conclusion
 
 This reading gave a quick overview of the most common AI-powered pair programming tools. What's left to do? Pick one, and start experimenting with it!
+
+Here you can find some [general guidelines](https://platform.openai.com/docs/guides/prompt-engineering) on how to prompt the model to get better results.
