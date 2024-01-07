@@ -53,7 +53,7 @@ ChatGPT is a general-purpose tool, with capacities going way beyond debugging or
 
 The ChatGPT portal is available [here](https://openai.com/chatgpt). There are a lot of Visual Studio Code extensions available, but be careful which one you select.
 
-Although not directly related to pair programming, this [free one-hour prompt engineering course](https://www.coursera.org/learn/prompt-engineering) will help enforce your basic prompt skills from a developer's perspective.
+Here is a [datacamp course](https://app.datacamp.com/learn/courses/chatgpt-prompt-engineering-for-developers) focused on prompt engineering for developpers.
 
 This is a written [tutorial](https://realpython.com/chatgpt-coding-mentor-python) about using ChatGPT for Python programming.
 
